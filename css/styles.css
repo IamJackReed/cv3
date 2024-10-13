@@ -421,7 +421,7 @@ p {
 
 .projecttags {
   font-weight: 400;
-  color: #EF4739;
+  color: #ff00b4;
   font-size: 0.875rem; }
 
 /* =============
@@ -432,7 +432,7 @@ p {
   color: black; }
 
 .intro-b {
-  color: #EF4739;
+  color: #ff00b4;
   font-weight: 800;
   font-size: 2.875rem; }
   @media (min-width: 576px) {
@@ -486,7 +486,7 @@ p {
 
 .inlinelink {
   text-decoration: underline;
-  color: #EF4739;
+  color: #ff00b4;
   font-weight: 500; }
 
 .featuredprojectlink:link, .featuredprojectlink:visited {
@@ -546,7 +546,7 @@ textarea {
       width: 100px; }
     .sidenav ul a:active,
     .sidenav ul a:hover {
-      color: #EF4739 !important;
+      color: #ff00b4 !important;
       transition: 0.2s;
       text-decoration: underline !important; }
     .sidenav ul a:link,
@@ -1085,7 +1085,7 @@ textarea {
         cursor: pointer;
         padding: 10px 40px;
         border: none;
-        background-color: #EF4739;
+        background-color: #ff00b4;
         font-family: 'Poppins', sans-serif;
         font-size: 1.125rem;
         font-weight: 400;
@@ -1110,7 +1110,7 @@ textarea {
   background-size: cover;
   background-position: center;
   border-radius: 100%;
-  background-color: #EF4739; }
+  background-color: #ff00b4; }
   @media (min-width: 768px) {
     #my-img {
       width: 250px;
